@@ -1,0 +1,14 @@
+input {
+  padding: 5px;
+}
+.container{
+  padding:20px
+}
+
+ul {
+  border: 1px solid rgb(204, 202, 202);
+}
+
+.data-list {
+  padding: 10px;
+}
